@@ -1,5 +1,4 @@
 var hideDeletesAction = function() {
-	console.log($(".diff-entry-lozenge.aui-lozenge.aui-lozenge-subtle.aui-lozenge-error"));
 	$(".diff-entry-lozenge.aui-lozenge.aui-lozenge-subtle.aui-lozenge-error").each(function(idx, elem) {
 		var diffContainer = $(elem).closest("div.diff-container");
 		
