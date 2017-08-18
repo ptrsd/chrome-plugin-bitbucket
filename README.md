@@ -1,3 +1,3 @@
-###Google Chrome extension - BitBucket
+Google Chrome extension - BitBucket
 
 * Toggle visibility of deleted files
