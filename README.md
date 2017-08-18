@@ -1,1 +1,3 @@
-Adding hide deleted files functionality in Bitbucket.
+###Google Chrome extension - BitBucket
+
+* Toggle visibility of deleted files
