@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "example",
-  "description": "bla",
-  "version": "1.0",
+  "name": "Hide deleted files - Btbucket",
+  "description": "hides deleted files",
+  "version": "0.1",
 
  /* "browser_action": {
     "default_icon": "icon.png",

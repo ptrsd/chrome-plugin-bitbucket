@@ -11,7 +11,7 @@ var hideDeletesAction = function () {
   });
 }
 
-var hideDeletesLbl = $("<span>").html("Hide deletes");
+var hideDeletesLbl = $("<span>").html("Hide deleted");
 
 var hideDeletesBtn = $("<button>", {
   id: "hideDeletes",
